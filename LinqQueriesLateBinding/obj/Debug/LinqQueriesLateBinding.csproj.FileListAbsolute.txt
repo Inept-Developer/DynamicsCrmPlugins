@@ -1,0 +1,10 @@
+C:\Users\user80\source\repos\LinqQueriesLateBinding\bin\Debug\LinqQueriesLateBinding.dll
+C:\Users\user80\source\repos\LinqQueriesLateBinding\bin\Debug\LinqQueriesLateBinding.pdb
+C:\Users\user80\source\repos\LinqQueriesLateBinding\obj\Debug\LinqQueriesLateBinding.csproj.CoreCompileInputs.cache
+C:\Users\user80\source\repos\LinqQueriesLateBinding\obj\Debug\LinqQueriesLateBinding.dll
+C:\Users\user80\source\repos\LinqQueriesLateBinding\obj\Debug\LinqQueriesLateBinding.pdb
+C:\Users\user80\source\repos\LinqQueriesLateBinding\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\user80\source\repos\LinqQueriesLateBinding\bin\Debug\microsoft.identitymodel.dll
+C:\Users\user80\source\repos\LinqQueriesLateBinding\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\user80\source\repos\LinqQueriesLateBinding\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\user80\source\repos\LinqQueriesLateBinding\obj\Debug\LinqQueriesLateBinding.csproj.CopyComplete
