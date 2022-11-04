@@ -1,0 +1,14 @@
+C:\Users\user80\source\repos\RegisterCandidatesToApplication\bin\Debug\RegisterCandidatesToApplication.dll
+C:\Users\user80\source\repos\RegisterCandidatesToApplication\bin\Debug\RegisterCandidatesToApplication.pdb
+C:\Users\user80\source\repos\RegisterCandidatesToApplication\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\user80\source\repos\RegisterCandidatesToApplication\bin\Debug\microsoft.identitymodel.dll
+C:\Users\user80\source\repos\RegisterCandidatesToApplication\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\user80\source\repos\RegisterCandidatesToApplication\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\user80\source\repos\RegisterCandidatesToApplication\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\user80\source\repos\RegisterCandidatesToApplication\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\user80\source\repos\RegisterCandidatesToApplication\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\user80\source\repos\RegisterCandidatesToApplication\obj\Debug\RegisterCandidatesToApplication.csproj.CoreCompileInputs.cache
+C:\Users\user80\source\repos\RegisterCandidatesToApplication\obj\Debug\RegisterCandidatesToApplication.csproj.CopyComplete
+C:\Users\user80\source\repos\RegisterCandidatesToApplication\obj\Debug\RegisterCandidatesToApplication.dll
+C:\Users\user80\source\repos\RegisterCandidatesToApplication\obj\Debug\RegisterCandidatesToApplication.pdb
+C:\Users\user80\source\repos\RegisterCandidatesToApplication\obj\Debug\RegisterCandidatesToApplication.csprojAssemblyReference.cache
